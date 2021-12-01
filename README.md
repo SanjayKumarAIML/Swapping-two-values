@@ -29,7 +29,7 @@ def circulate():
     print('Swapped values are:',num1,num2)
 circulate()
 ```
-## OUTPUT
+## OUTPUT:
 ![PYTHON1](./Python01.png)
 
 ## RESULT:
